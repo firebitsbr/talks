@@ -9,8 +9,8 @@ Direct Access
 
 | Title | Link |
 | ------ | ------ |
-| Introdução à Exploração de Corrupção de Memória (portuguese) | [Click Here](TODO) |
-| Smashing the Memory Protections | [Click Here](http://www.hacknroll.com/~maycon/RoadsecTW/) |
+| Introdução à Exploração de Corrupção de Memória (portuguese) | [Click Here](http://www.hacknroll.com/~maycon/RoadsecTW/) |
+| Smashing the Memory Protections | [Click Here](smashing-memory-protections/) |
 
 
 Abstracts
