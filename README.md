@@ -11,8 +11,11 @@ The objective of this repository is to join some of my conference talks on the s
 
 # Short Abstract
 
+	TODO
+
 ## Smashing the Memory Protections
 
+	TODO
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
