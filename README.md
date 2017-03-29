@@ -7,10 +7,10 @@ The objective of this repository is to join some of my talks on the same place.
 Direct Access
 -------------
 
-| Title | Link |
-| ------ | ------ |
-| Introdução à Exploração de Corrupção de Memória (portuguese) | [Click Here](intro-memory-corruption) |
-| Smashing the Memory Protections | [Click Here](smashing-memory-protections/) |
+| Released | Title | Link |
+| -------- | ------ | ------ |
+| 2017-03-27 | Introdução à Exploração de Corrupção de Memória (portuguese) | [Click Here](intro-memory-corruption) |
+| 2017-03-27 | Smashing the Memory Protections | [Click Here](smashing-memory-protections/) |
 
 
 Abstracts
