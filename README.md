@@ -29,4 +29,6 @@ Abstracts
 
 	Embedded devices were present everywhere, since SmartWatches until SmartLamp. But what few people say/assume is that the buzzword Internet of Things (IoT) raise from the "gourmeting" of embedded devices.
 
-	In this talk, I demonstrate the steps to exploit embedded devices since the retrieving of the firmware by downloading it on the vendor page or extracting directly from the flash memory (using SPI); the reverse engineering of some MIPS arcitecture binaries (ELF and bootload itself), the surface attack analisys.
+	In this talk, I demonstrate the steps to exploit embedded devices since the retrieving of the firmware by downloading it on the vendor page or extracting directly from the flash memory (using SPI); the reverse engineering of some MIPS arcitecture binaries (ELF and bootload itself) and the analisys of the surface attack.
+
+	This talk was initially presented on Hackers to Hackers Conference (H2HC 2018).
