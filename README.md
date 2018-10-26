@@ -31,4 +31,4 @@ Abstracts
 
 	In this talk, I demonstrate the steps to exploit embedded devices since the retrieving of the firmware by downloading it on the vendor page or extracting directly from the flash memory (using SPI); the reverse engineering of some MIPS arcitecture binaries (ELF and bootload itself) and the analisys of the surface attack.
 
-	This talk was initially presented on Hackers to Hackers Conference (H2HC 2018).
+	This talk was initially presented on [Hackers to Hackers Conference (H2HC 2018)](https://www.h2hc.com.br/){:target="_blank"}.
